@@ -1,6 +1,6 @@
 name: HendrixTest
 favicon: null
-layout_spectrum: 0.5559076117351651
+layout_spectrum: 1
 typography_spectrum: 0.8710839042905718
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.37225881428457797
+  brandStrength: 0.875
   lightness: 0.42958673369139433
   saturation: 0.8317191819660366
   rhythmicContrast: 0.9715068200603127
