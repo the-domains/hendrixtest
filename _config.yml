@@ -1,0 +1,28 @@
+name: HendrixTest
+favicon: null
+layout_spectrum: 0.5559076117351651
+typography_spectrum: 0.8710839042905718
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37225881428457797
+  lightness: 0.42958673369139433
+  saturation: 0.8317191819660366
+  rhythmicContrast: 0.9715068200603127
+purpose: []
